@@ -1,16 +1,15 @@
-### Hi there 👋
+### 👋 Welcome to my github
 
-<!--
-**ChaseStas/ChaseStas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://parechyn.notion.site/Stan-Parechyn-12e38fcf755e4487931477906e3a2a7a">My CV</a>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 &nbsp;TechStack
+[
+![Swift](https://img.shields.io/badge/-Swift-05122A?style=flat&logo=Swift)&nbsp;
+![Xcode](https://img.shields.io/badge/-Xcode-05122A?style=flat&logo=Xcode)&nbsp;
+![TCA](https://img.shields.io/badge/-TCA-05122A?style=flat&logo=Redux&logoColor=critical)&nbsp;
+![Combine](https://img.shields.io/badge/-Combine-05122A?style=flat&logo=Combine&logoColor=violet)&nbsp;
+![RestAPI](https://img.shields.io/badge/-RestAPI-05122A?style=flat&logo=Rest&logoColor=#F67909)&nbsp;
+![UnitTests](https://img.shields.io/badge/-UnitTests-05122A?style=flat&logo=UnitTests&logoColor=violet)&nbsp;
+![Async/await](https://img.shields.io/badge/-Async/await-05122A?style=flat&logo=UnitTests&logoColor=violet)&nbsp;
+![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=Postman)&nbsp;
+]
